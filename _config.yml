@@ -1,4 +1,2 @@
-{% include prism.css %}
-{% include hack.css %}
-{% include dark.css %}
 
+theme: jekyll-theme-hacker
